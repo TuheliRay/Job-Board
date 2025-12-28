@@ -20,4 +20,4 @@ npm run build
 - public/ — static assets
 
 ## Notes
-No license specified. Created by TuheliRay.
+No license specified. Created by Tuheli Ray.
